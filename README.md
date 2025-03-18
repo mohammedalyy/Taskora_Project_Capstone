@@ -1,2 +1,2 @@
-# Taskora-s-Project_Capstone
+# Taskora_Project_Capstone
 UX/UI Mobile Application
